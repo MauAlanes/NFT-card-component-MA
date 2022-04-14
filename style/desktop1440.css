@@ -1,3 +1,16 @@
-.card{
-    max-width: 400px;
+.component-card{
+    max-width: 350px;
+}
+
+#app{
+    padding: 10vh 6vw 0;
+    display: flex;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    grid-template-rows: 20px 1fr 1fr;
+    grid-gap: 1rem;
+    justify-items: center;
+}
+
+.Container{
+    grid-column: 1/6;
 }
