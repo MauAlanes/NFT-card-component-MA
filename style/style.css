@@ -23,6 +23,16 @@ body{
     align-items: center;
 }
 
+.button{
+    width: 150px;
+    font-family: 'Kumbh Sans', sans-serif;
+    background-color: hsl(180, 48%, 67%);
+    border-radius: 10px;
+    padding: 5px;
+    margin: 30px;
+    border: 2px solid hsl(24, 100%, 44%);
+}
+
 .component-card{
     border-radius: 20px;
     max-width: 350px;

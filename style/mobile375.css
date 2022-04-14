@@ -1,7 +1,9 @@
-.bot1{
-    width: 110px; height: 30px;
+.button{
+    width: 150px;
+    font-family: 'Kumbh Sans', sans-serif;
+    background-color: hsl(180, 48%, 67%);
     border-radius: 10px;
-    margin-right: 50px;
-    background-color: rgb(96, 168, 144);
-    text-align: center;
+    padding: 5px;
+    margin: 10px;
+    border: 2px solid hsl(24, 100%, 44%);
 }
